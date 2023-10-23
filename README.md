@@ -27,7 +27,7 @@ Email: cristian-.p@hotmail.com
 
 Phone/WhatsApp: (+54)2494-640949
 
-LinkedIn: [https://www.linkedin.com/in/cristian-peralta-a1a229263/]: cristian-peralta
+LinkedIn: https://www.linkedin.com/in/cristian-peralta-a1a229263/
 
 
 
