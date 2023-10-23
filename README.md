@@ -2,7 +2,7 @@ Hello!👋, I'm Cristian Peralta
 
 Who Am I?
 
-"I am Cristian and I am 30 years old. I am passionate about computers. Initially, I focused on PC technical service, for which I trained and have my degree. 
+"I am 30 years old. I am passionate about computers. Initially, I focused on PC technical service, for which I trained and have my degree. 
 About 2 years ago, I started to get into development, and I really like it! I have a 2-year-old daughter who was my biggest inspiration to take this big and long leap, 
  and she motivates me to keep growing and learning."
 
