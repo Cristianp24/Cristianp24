@@ -27,7 +27,7 @@ Email: cristian-.p@hotmail.com
 
 Phone: (+54)2494-640949
 
- <a href="https://www.linkedin.com/in/cristian-peralta-a1a229263/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.aGsC0wuuVdQM3TNX4wIamgHaEK?pid=ImgDet&rs=1" width="60" height="30"/></a> 
+ <a href="[https://www.linkedin.com/in/cristian-peralta-a1a229263/](https://www.linkedin.com/in/cristianperaltaa/)" target="_blank"> <img src="https://th.bing.com/th/id/OIP.aGsC0wuuVdQM3TNX4wIamgHaEK?pid=ImgDet&rs=1" width="60" height="30"/></a> 
 
 
 
